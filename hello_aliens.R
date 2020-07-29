@@ -1,0 +1,1 @@
+cat("I hope your planet's CMU gives easy grades, because our's isn't. I really don't know what I am doing at this point but I am using a portable laptop called Macbook to write this letter to you. I hope this letter finds you well. really! I also wish that by the time you get this message, I am making trillions a year.")
